@@ -1,2 +1,2 @@
 # JAVA_EXAMPLES
-You can find some java tutorial example codes for your examination :)
+You can find some java tutorial example codes for your examination 
